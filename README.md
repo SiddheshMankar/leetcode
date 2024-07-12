@@ -22,4 +22,8 @@ Visit https://leetcode.com/siddheshmankar70
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SiddheshMankar/leetcode/tree/master/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/SiddheshMankar/leetcode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
