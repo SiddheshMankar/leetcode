@@ -5,6 +5,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/SiddheshMankar/leetcode/tree/master/0125-valid-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SiddheshMankar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Stack
 |  |
@@ -27,4 +28,8 @@ Visit https://leetcode.com/siddheshmankar70
 | ------- |
 | [0007-reverse-integer](https://github.com/SiddheshMankar/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SiddheshMankar/leetcode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/SiddheshMankar/leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
