@@ -21,6 +21,7 @@ Visit https://leetcode.com/siddheshmankar70
 | ------- |
 | [0056-merge-intervals](https://github.com/SiddheshMankar/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/SiddheshMankar/leetcode/tree/master/0152-maximum-product-subarray) |
 | [2846-robot-collisions](https://github.com/SiddheshMankar/leetcode/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
@@ -42,6 +43,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/SiddheshMankar/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/SiddheshMankar/leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
