@@ -24,6 +24,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0056-merge-intervals](https://github.com/SiddheshMankar/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/SiddheshMankar/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0792-binary-search](https://github.com/SiddheshMankar/leetcode/tree/master/0792-binary-search) |
 | [2846-robot-collisions](https://github.com/SiddheshMankar/leetcode/tree/master/2846-robot-collisions) |
 ## Sorting
 |  |
@@ -64,4 +65,8 @@ Visit https://leetcode.com/siddheshmankar70
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/SiddheshMankar/leetcode/tree/master/0726-number-of-atoms) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/SiddheshMankar/leetcode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
