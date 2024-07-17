@@ -27,6 +27,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0088-merge-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/SiddheshMankar/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0792-binary-search](https://github.com/SiddheshMankar/leetcode/tree/master/0792-binary-search) |
+| [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SiddheshMankar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/SiddheshMankar/leetcode/tree/master/2846-robot-collisions) |
 ## Sorting
@@ -68,6 +69,7 @@ Visit https://leetcode.com/siddheshmankar70
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/SiddheshMankar/leetcode/tree/master/0726-number-of-atoms) |
+| [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SiddheshMankar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Search
 |  |
@@ -77,15 +79,18 @@ Visit https://leetcode.com/siddheshmankar70
 ## Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SiddheshMankar/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SiddheshMankar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Binary Tree
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SiddheshMankar/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/SiddheshMankar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SiddheshMankar/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
