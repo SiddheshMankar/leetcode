@@ -22,6 +22,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SiddheshMankar/leetcode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/SiddheshMankar/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0088-merge-sorted-array) |
@@ -74,6 +75,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SiddheshMankar/leetcode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/SiddheshMankar/leetcode/tree/master/0792-binary-search) |
 ## Tree
