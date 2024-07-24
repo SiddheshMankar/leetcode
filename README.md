@@ -36,6 +36,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0792-binary-search](https://github.com/SiddheshMankar/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/SiddheshMankar/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
+| [1333-sort-the-jumbled-numbers](https://github.com/SiddheshMankar/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SiddheshMankar/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SiddheshMankar/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SiddheshMankar/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -49,6 +50,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0056-merge-intervals](https://github.com/SiddheshMankar/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0726-number-of-atoms](https://github.com/SiddheshMankar/leetcode/tree/master/0726-number-of-atoms) |
+| [1333-sort-the-jumbled-numbers](https://github.com/SiddheshMankar/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SiddheshMankar/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2502-sort-the-people](https://github.com/SiddheshMankar/leetcode/tree/master/2502-sort-the-people) |
 | [2846-robot-collisions](https://github.com/SiddheshMankar/leetcode/tree/master/2846-robot-collisions) |
