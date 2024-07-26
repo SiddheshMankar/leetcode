@@ -77,6 +77,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/SiddheshMankar/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -167,6 +168,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Shortest Path
