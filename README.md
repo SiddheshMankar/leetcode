@@ -53,6 +53,7 @@ Visit https://leetcode.com/siddheshmankar70
 | ------- |
 | [0056-merge-intervals](https://github.com/SiddheshMankar/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/SiddheshMankar/leetcode/tree/master/0148-sort-list) |
 | [0726-number-of-atoms](https://github.com/SiddheshMankar/leetcode/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/SiddheshMankar/leetcode/tree/master/0948-sort-an-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SiddheshMankar/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
@@ -72,6 +73,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0088-merge-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SiddheshMankar/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SiddheshMankar/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/SiddheshMankar/leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -155,6 +157,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/SiddheshMankar/leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/SiddheshMankar/leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -163,6 +166,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/SiddheshMankar/leetcode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/SiddheshMankar/leetcode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -181,6 +185,7 @@ Visit https://leetcode.com/siddheshmankar70
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SiddheshMankar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/SiddheshMankar/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/SiddheshMankar/leetcode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
