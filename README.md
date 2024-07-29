@@ -64,6 +64,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SiddheshMankar/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SiddheshMankar/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SiddheshMankar/leetcode/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/SiddheshMankar/leetcode/tree/master/1013-fibonacci-number) |
@@ -89,6 +90,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SiddheshMankar/leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/SiddheshMankar/leetcode/tree/master/1013-fibonacci-number) |
@@ -187,6 +189,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/SiddheshMankar/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SiddheshMankar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/SiddheshMankar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/SiddheshMankar/leetcode/tree/master/0148-sort-list) |
