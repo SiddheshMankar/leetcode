@@ -74,6 +74,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0125-valid-palindrome](https://github.com/SiddheshMankar/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SiddheshMankar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/SiddheshMankar/leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SiddheshMankar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -101,6 +102,7 @@ Visit https://leetcode.com/siddheshmankar70
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SiddheshMankar/leetcode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SiddheshMankar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0726-number-of-atoms](https://github.com/SiddheshMankar/leetcode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SiddheshMankar/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -186,6 +188,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SiddheshMankar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/SiddheshMankar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/SiddheshMankar/leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/SiddheshMankar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
