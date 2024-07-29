@@ -68,6 +68,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SiddheshMankar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SiddheshMankar/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SiddheshMankar/leetcode/tree/master/0141-linked-list-cycle) |
@@ -177,6 +178,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SiddheshMankar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/SiddheshMankar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0234-palindrome-linked-list) |
