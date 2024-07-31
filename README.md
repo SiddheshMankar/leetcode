@@ -40,6 +40,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0792-binary-search](https://github.com/SiddheshMankar/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/SiddheshMankar/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/SiddheshMankar/leetcode/tree/master/0948-sort-an-array) |
+| [1196-filling-bookcase-shelves](https://github.com/SiddheshMankar/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/SiddheshMankar/leetcode/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SiddheshMankar/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -87,6 +88,7 @@ Visit https://leetcode.com/siddheshmankar70
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/SiddheshMankar/leetcode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/SiddheshMankar/leetcode/tree/master/1013-fibonacci-number) |
+| [1196-filling-bookcase-shelves](https://github.com/SiddheshMankar/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SiddheshMankar/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1511-count-number-of-teams](https://github.com/SiddheshMankar/leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SiddheshMankar/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
