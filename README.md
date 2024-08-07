@@ -6,6 +6,7 @@ Visit https://leetcode.com/siddheshmankar70
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/SiddheshMankar/leetcode/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/SiddheshMankar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0726-number-of-atoms](https://github.com/SiddheshMankar/leetcode/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SiddheshMankar/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SiddheshMankar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -125,6 +126,7 @@ Visit https://leetcode.com/siddheshmankar70
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SiddheshMankar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SiddheshMankar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0387-first-unique-character-in-a-string](https://github.com/SiddheshMankar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0726-number-of-atoms](https://github.com/SiddheshMankar/leetcode/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/SiddheshMankar/leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -209,6 +211,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SiddheshMankar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0948-sort-an-array](https://github.com/SiddheshMankar/leetcode/tree/master/0948-sort-an-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SiddheshMankar/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SiddheshMankar/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -248,4 +251,8 @@ Visit https://leetcode.com/siddheshmankar70
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SiddheshMankar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SiddheshMankar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
