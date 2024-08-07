@@ -153,6 +153,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/SiddheshMankar/leetcode/tree/master/0226-invert-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SiddheshMankar/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SiddheshMankar/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -160,6 +161,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/SiddheshMankar/leetcode/tree/master/0226-invert-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SiddheshMankar/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SiddheshMankar/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -167,6 +169,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/SiddheshMankar/leetcode/tree/master/0226-invert-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SiddheshMankar/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SiddheshMankar/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -241,6 +244,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/SiddheshMankar/leetcode/tree/master/0226-invert-binary-tree) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SiddheshMankar/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Indexed Tree
 |  |
