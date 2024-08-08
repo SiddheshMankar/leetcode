@@ -45,6 +45,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0540-single-element-in-a-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/SiddheshMankar/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/SiddheshMankar/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0921-spiral-matrix-iii](https://github.com/SiddheshMankar/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/SiddheshMankar/leetcode/tree/master/0948-sort-an-array) |
 | [1196-filling-bookcase-shelves](https://github.com/SiddheshMankar/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -123,6 +124,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Simulation
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/SiddheshMankar/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [2846-robot-collisions](https://github.com/SiddheshMankar/leetcode/tree/master/2846-robot-collisions) |
 ## Hash Table
 |  |
@@ -176,6 +178,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Matrix
 |  |
 | ------- |
+| [0921-spiral-matrix-iii](https://github.com/SiddheshMankar/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/SiddheshMankar/leetcode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SiddheshMankar/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SiddheshMankar/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
