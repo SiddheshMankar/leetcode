@@ -19,6 +19,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SiddheshMankar/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/SiddheshMankar/leetcode/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SiddheshMankar/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -274,6 +275,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/SiddheshMankar/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/SiddheshMankar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Backtracking
 |  |
@@ -291,4 +293,8 @@ Visit https://leetcode.com/siddheshmankar70
 |  |
 | ------- |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/SiddheshMankar/leetcode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/SiddheshMankar/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
