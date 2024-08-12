@@ -23,6 +23,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0020-valid-parentheses](https://github.com/SiddheshMankar/leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/SiddheshMankar/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/SiddheshMankar/leetcode/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/SiddheshMankar/leetcode/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SiddheshMankar/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SiddheshMankar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -46,6 +47,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/SiddheshMankar/leetcode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SiddheshMankar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/SiddheshMankar/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/SiddheshMankar/leetcode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/SiddheshMankar/leetcode/tree/master/0907-koko-eating-bananas) |
@@ -138,6 +140,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0141-linked-list-cycle](https://github.com/SiddheshMankar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SiddheshMankar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/SiddheshMankar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/SiddheshMankar/leetcode/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/SiddheshMankar/leetcode/tree/master/0726-number-of-atoms) |
 | [0999-regions-cut-by-slashes](https://github.com/SiddheshMankar/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -299,4 +302,8 @@ Visit https://leetcode.com/siddheshmankar70
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/SiddheshMankar/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/SiddheshMankar/leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
