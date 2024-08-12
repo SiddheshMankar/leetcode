@@ -5,6 +5,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SiddheshMankar/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SiddheshMankar/leetcode/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/SiddheshMankar/leetcode/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/SiddheshMankar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -19,6 +20,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SiddheshMankar/leetcode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/SiddheshMankar/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/SiddheshMankar/leetcode/tree/master/0726-number-of-atoms) |
