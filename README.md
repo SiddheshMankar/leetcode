@@ -31,6 +31,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/SiddheshMankar/leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SiddheshMankar/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SiddheshMankar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/SiddheshMankar/leetcode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -51,6 +52,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0540-single-element-in-a-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SiddheshMankar/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/SiddheshMankar/leetcode/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/SiddheshMankar/leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/SiddheshMankar/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/SiddheshMankar/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/SiddheshMankar/leetcode/tree/master/0948-sort-an-array) |
