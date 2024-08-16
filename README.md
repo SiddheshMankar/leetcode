@@ -21,6 +21,7 @@ Visit https://leetcode.com/siddheshmankar70
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SiddheshMankar/leetcode/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/SiddheshMankar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/SiddheshMankar/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/SiddheshMankar/leetcode/tree/master/0496-next-greater-element-i) |
@@ -173,6 +174,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SiddheshMankar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SiddheshMankar/leetcode/tree/master/0226-invert-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SiddheshMankar/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -181,6 +183,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SiddheshMankar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SiddheshMankar/leetcode/tree/master/0226-invert-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/SiddheshMankar/leetcode/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -189,6 +192,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/SiddheshMankar/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/SiddheshMankar/leetcode/tree/master/0226-invert-binary-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/SiddheshMankar/leetcode/tree/master/0999-regions-cut-by-slashes) |
 | [1207-delete-nodes-and-return-forest](https://github.com/SiddheshMankar/leetcode/tree/master/1207-delete-nodes-and-return-forest) |
