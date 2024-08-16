@@ -31,6 +31,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Greedy
 |  |
 | ------- |
+| [0624-maximum-distance-in-arrays](https://github.com/SiddheshMankar/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/SiddheshMankar/leetcode/tree/master/0890-lemonade-change) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/SiddheshMankar/leetcode/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SiddheshMankar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -50,6 +51,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0215-kth-largest-element-in-an-array](https://github.com/SiddheshMankar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/SiddheshMankar/leetcode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0624-maximum-distance-in-arrays](https://github.com/SiddheshMankar/leetcode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SiddheshMankar/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/SiddheshMankar/leetcode/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/SiddheshMankar/leetcode/tree/master/0890-lemonade-change) |
