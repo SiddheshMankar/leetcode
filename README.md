@@ -103,6 +103,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0002-add-two-numbers](https://github.com/SiddheshMankar/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/SiddheshMankar/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SiddheshMankar/leetcode/tree/master/0009-palindrome-number) |
+| [0264-ugly-number-ii](https://github.com/SiddheshMankar/leetcode/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/SiddheshMankar/leetcode/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/SiddheshMankar/leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
@@ -123,6 +124,7 @@ Visit https://leetcode.com/siddheshmankar70
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/SiddheshMankar/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/SiddheshMankar/leetcode/tree/master/0264-ugly-number-ii) |
 | [1013-fibonacci-number](https://github.com/SiddheshMankar/leetcode/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/SiddheshMankar/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SiddheshMankar/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -151,6 +153,7 @@ Visit https://leetcode.com/siddheshmankar70
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SiddheshMankar/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SiddheshMankar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0264-ugly-number-ii](https://github.com/SiddheshMankar/leetcode/tree/master/0264-ugly-number-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/SiddheshMankar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/SiddheshMankar/leetcode/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/SiddheshMankar/leetcode/tree/master/0726-number-of-atoms) |
@@ -250,6 +253,7 @@ Visit https://leetcode.com/siddheshmankar70
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SiddheshMankar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/SiddheshMankar/leetcode/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/SiddheshMankar/leetcode/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
