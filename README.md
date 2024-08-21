@@ -9,6 +9,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0125-valid-palindrome](https://github.com/SiddheshMankar/leetcode/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/SiddheshMankar/leetcode/tree/master/0273-integer-to-english-words) |
 | [0387-first-unique-character-in-a-string](https://github.com/SiddheshMankar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0664-strange-printer](https://github.com/SiddheshMankar/leetcode/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/SiddheshMankar/leetcode/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SiddheshMankar/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SiddheshMankar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -130,6 +131,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0152-maximum-product-subarray](https://github.com/SiddheshMankar/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/SiddheshMankar/leetcode/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/SiddheshMankar/leetcode/tree/master/0650-2-keys-keyboard) |
+| [0664-strange-printer](https://github.com/SiddheshMankar/leetcode/tree/master/0664-strange-printer) |
 | [1013-fibonacci-number](https://github.com/SiddheshMankar/leetcode/tree/master/1013-fibonacci-number) |
 | [1196-filling-bookcase-shelves](https://github.com/SiddheshMankar/leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/SiddheshMankar/leetcode/tree/master/1240-stone-game-ii) |
