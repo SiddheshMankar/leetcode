@@ -267,6 +267,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SiddheshMankar/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SiddheshMankar/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/SiddheshMankar/leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+| [2803-modify-graph-edge-weights](https://github.com/SiddheshMankar/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SiddheshMankar/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Topological Sort
 |  |
@@ -285,6 +286,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0264-ugly-number-ii](https://github.com/SiddheshMankar/leetcode/tree/master/0264-ugly-number-ii) |
 | [0948-sort-an-array](https://github.com/SiddheshMankar/leetcode/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/SiddheshMankar/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2803-modify-graph-edge-weights](https://github.com/SiddheshMankar/leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Merge Sort
 |  |
 | ------- |
@@ -325,6 +327,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [1325-path-with-maximum-probability](https://github.com/SiddheshMankar/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SiddheshMankar/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/SiddheshMankar/leetcode/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [2803-modify-graph-edge-weights](https://github.com/SiddheshMankar/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SiddheshMankar/leetcode/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Breadth-First Search
 |  |
