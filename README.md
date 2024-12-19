@@ -46,6 +46,7 @@ Visit https://leetcode.com/siddheshmankar70
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/SiddheshMankar/leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SiddheshMankar/leetcode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/SiddheshMankar/leetcode/tree/master/0056-merge-intervals) |
@@ -123,6 +124,7 @@ Visit https://leetcode.com/siddheshmankar70
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SiddheshMankar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/SiddheshMankar/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/SiddheshMankar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SiddheshMankar/leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SiddheshMankar/leetcode/tree/master/0141-linked-list-cycle) |
