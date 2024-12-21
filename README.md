@@ -8,6 +8,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0020-valid-parentheses](https://github.com/SiddheshMankar/leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SiddheshMankar/leetcode/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/SiddheshMankar/leetcode/tree/master/0273-integer-to-english-words) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SiddheshMankar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/SiddheshMankar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0564-find-the-closest-palindrome](https://github.com/SiddheshMankar/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/SiddheshMankar/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -136,6 +137,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0148-sort-list](https://github.com/SiddheshMankar/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SiddheshMankar/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/SiddheshMankar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SiddheshMankar/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SiddheshMankar/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
