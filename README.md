@@ -15,6 +15,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0726-number-of-atoms](https://github.com/SiddheshMankar/leetcode/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SiddheshMankar/leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SiddheshMankar/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1894-merge-strings-alternately](https://github.com/SiddheshMankar/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/SiddheshMankar/leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/SiddheshMankar/leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/SiddheshMankar/leetcode/tree/master/2502-sort-the-people) |
@@ -135,6 +136,7 @@ Visit https://leetcode.com/siddheshmankar70
 | [0719-find-k-th-smallest-pair-distance](https://github.com/SiddheshMankar/leetcode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/SiddheshMankar/leetcode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1894-merge-strings-alternately](https://github.com/SiddheshMankar/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/SiddheshMankar/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
